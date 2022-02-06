@@ -1,5 +1,0 @@
-
- echarts.registerMap('svg', {
- 
- });
-option = {};
